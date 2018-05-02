@@ -5,4 +5,5 @@
 q_learning.py implements tabular Q learning, which is able to achieve 20 points after 100 epochs, and is able to achieve 1000 points within 500 epochs
 
 ## How to run
-python q_learning.py
+We use python 2.7:
+`python q_learning.py`
