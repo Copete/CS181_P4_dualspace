@@ -160,7 +160,7 @@ if __name__ == '__main__':
 
     # Run games.
     run_games(agent, hist, EPOCHS, 10)
-    print
+    print hist
     print max(hist)
 
     # Save history.
